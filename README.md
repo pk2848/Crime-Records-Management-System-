@@ -18,10 +18,6 @@ Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or NetBean
 Installation and Setup
 Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/pk2848/crime-records-management-system.git
-Open the project in your preferred Java IDE.
 
 Ensure your IDE is configured to run Java 8 or higher.
 
